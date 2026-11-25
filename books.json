@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Kecha va kunduz",
+    "author": "Cho‘lpon (Abdulhamid Sulaymon o‘g‘li)",
+    "year": 1936,
+    "status": "Rejada"
+  },
+  {
+    "id": 2,
+    "title": "O‘tkan kunlar",
+    "author": "Abdulla Qodiriy",
+    "year": 1926,
+    "status": "O'qilmoqda"
+  },
+  {
+    "id": 3,
+    "title": "Ikki eshik orasi",
+    "author": "O‘tkir Hoshimov",
+    "year": 1986,
+    "status": "O'qilgan"
+  }
+]
